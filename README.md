@@ -34,4 +34,4 @@ const MyPoker = new Poker(deck1, deck2)
 ```
 
 ### Dependencies
-* babel-cli`
+* babel-cli

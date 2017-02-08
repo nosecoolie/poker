@@ -7,7 +7,7 @@
   "version": "1.0.0",
   "description": "Dev for Dcard",
   "scripts": {
-    "main.js": "babel-node main.js"
+    "main.js": "babel-node src/main.js"
   },
   "license": "MIT",
   "author": "nosecoolie",
