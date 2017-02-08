@@ -1,0 +1,19 @@
+{
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nosecoolie/poker"
+  },
+  "name": "poker",
+  "version": "1.0.0",
+  "description": "Dev for Dcard",
+  "scripts": {
+    "main.js": "babel-node main.js"
+  },
+  "license": "MIT",
+  "author": "nosecoolie",
+  "devDependencies": {
+    "eslint": "^3.13.1",
+    "eslint-config-standard": "^6.2.1",
+    "babel-cli": "^6.22.2"
+  }
+}
